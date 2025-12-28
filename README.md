@@ -1,9 +1,9 @@
 # Hi there 👋 I'm Yuhan Liu 
 
-**I'm currently an undergradute student at the Southern University of Science and Technology.**
+**I'm currently a master student at University of Copenhagen.**
 
-- 🔬 My interests lie in **Human Computer Interaction** 🤖 and **Computational Creativity.** 🎧.
-- 🔨 I'm currently working on building an UI agent which can automatically detect dark patterns.
+- 🔬 My interests lie in **3D Computer Vision** 🤖 and **Computational Creativity.** 🎧.
+- 🔨 I'm currently working on point cloud segmentation.
 - 🎼 I'm also a song writer and guitarist. My favorite band is Sound Horizon 🕶.
   
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6600&random=false&width=550&lines=I+believe+that+everyone+is+one+in+a+billion.;Trying+to+make+the+world+a+better+place.)](https://git.io/typing-svg)
